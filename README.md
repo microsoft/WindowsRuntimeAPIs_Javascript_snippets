@@ -1,6 +1,7 @@
-# Code snippets for basic Windows Runtime APIs
+# Javascript code snippets for basic Windows Runtime APIs
+[See the live site with these JS code snippets](https://microsoft.github.io/WindowsRuntimeAPIs_Javascript_snippets).
 [Read more about accessing UWP features with a Hosted Web App](https://docs.microsoft.com/en-us/windows/uwp/porting/hwa-access-features). 
-*Further description coming soon.*
+[Install it from the Store as a Hosted Web App with Codepen to see it working on your machine](https://www.microsoft.com/store/apps/9nblggh694fv).
 
 ## Contributing
 
