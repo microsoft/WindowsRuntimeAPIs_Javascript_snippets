@@ -10,7 +10,7 @@ function apis() {
 
 		pluginsList = new List('plugins', {valueNames: [ 'title', 'namespace' ]});
 		var gistScript = document.createElement('script');
-		gistScript.setAttribute('src', '/js/lib/gist-embed.js');
+		gistScript.setAttribute('src', 'js/lib/gist-embed.js');
 		document.body.appendChild(gistScript);
 	}
 }
